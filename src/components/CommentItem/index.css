@@ -1,0 +1,125 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+li {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  border-bottom: 1px solid #0b69ff;
+  border-color: #7e858e;
+  padding: 30px;
+}
+.li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  border-radius: 15px;
+  margin: 0px;
+}
+.initial-con {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 10%;
+  height: 100px;
+}
+.initial {
+  height: 50px;
+  width: 50px;
+  display: flex;
+  color: #fff;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+
+.name-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 90%;
+
+  height: 100px;
+}
+
+.p1 {
+  color: #111e;
+  font-size: 25px;
+  font-weight: 500;
+  margin: 0px;
+  padding: 0px;
+}
+
+.p {
+  color: #475569;
+  font-size: 15px;
+  font-weight: 500;
+  margin: 0px;
+  padding: 0px5;
+}
+.para {
+  color: #7e858e;
+  font-size: 15px;
+  font-weight: 500;
+  padding-left: 20px;
+  margin: 0px;
+}
+.like-del-con {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.btn-s {
+  border: none;
+  background-color: transparent;
+}
+.like-btn {
+  margin: 0px;
+}
+.addBlue {
+  color: #0ea5e9;
+  font-size: 15px !important;
+  padding-left: 10px !important;
+  padding-bottom: 5px !important;
+}
+.addLike {
+  color: #7e858e;
+  font-size: 15px !important;
+  padding-left: 10px !important;
+  padding-bottom: 5px !important;
+}
